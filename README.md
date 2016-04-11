@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 To mock something fast and loose with geo-json data for the world,
 this is your fix. Legal status of this dataset: dubious?
 
